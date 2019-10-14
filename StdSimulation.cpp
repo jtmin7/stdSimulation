@@ -7,7 +7,7 @@
 #include <cmath>
 #include <algorithm>
 
-
+//Init
 class RandomMethod {
 	int randomNums[10];
 	int seed;
